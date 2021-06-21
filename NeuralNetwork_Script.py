@@ -2,7 +2,6 @@
 """
 Created on Mon Jun  7 22:32:00 2021
 
-@author: Localadmin
 """
 
 import pandas as pd
