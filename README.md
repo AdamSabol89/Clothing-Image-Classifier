@@ -3,7 +3,7 @@
 - Data was sourced from pre-existing [kaggle dataset.](https://www.kaggle.com/agrigorev/clothing-dataset-full) Data was cleaned and preprocessed resulting in a balanced dataset of 1400 observations. 
 - Utilized a Convolutional Neural Network, XGBoost, and pre-trained imagent VGG16 to obtain best model. 
 
-## Code and Resources used:
+## Code and Resources Used:
 - Python version 3.7
 - Packages: pandas, numpy, sklearn, pickle, matplotlib, seaborn, cv2, tensorflow, keras.
 - [Video](https://www.youtube.com/watch?v=9GzfUzJeyi0&) from DigitalSreeni on feature extraction with Conv-nets.
