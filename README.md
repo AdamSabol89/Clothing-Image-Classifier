@@ -23,7 +23,7 @@ Now that data has been cleaned and preprocess we can begin the process of modeli
 
 ![](https://github.com/AdamSabol89/Clothing-Image-Classifier/blob/main/figures/Figure_4.png) ![](https://github.com/AdamSabol89/Clothing-Image-Classifier/blob/main/figures/Figure_5.png)
 
-As the graphs show we can only reach roughly 50% validation accuracy even after 50 epochs of training. We can further explore our results by evaluating the confusion matrix. 
+As the graphs show we can only reach roughly 50% validation accuracy even after 50 epochs of training. Those familiar with neural-network training will also recognize a significant problem here. Even though our training accuracy continues to increase and loss continues to decrease our test accuracy and loss level out after about 10-15 epochs. This is typically a sign of overfitting, which is likely happening here, however there is also the lingering issue of simply not enough data in our training set. We can further explore our results by evaluating the confusion matrix. 
 
 <div style="text-align:center"><img src="https://github.com/AdamSabol89/Clothing-Image-Classifier/blob/main/figures/Conv_Net_CM.png" /></div>
 
