@@ -5,7 +5,7 @@
 
 ## Code and Resources Used:
 - Python version 3.7
-- Packages: pandas, numpy, sklearn, pickle, matplotlib, seaborn, cv2, tensorflow, keras.
+- Packages: pandas, numpy, sklearn, matplotlib, seaborn, cv2, tensorflow, keras.
 - [Video](https://www.youtube.com/watch?v=9GzfUzJeyi0&) from DigitalSreeni on feature extraction with Conv-nets.
 
 ### Data Cleaning 
